@@ -1,4 +1,4 @@
 # Leon
-Template One - Leon (HTML &amp; CSS)
+Website One - Leon (HTML &amp; CSS)
 
 Live @ : https://joealnaggar.github.io/Leon/
